@@ -22,9 +22,6 @@ class Deck:
 
         for suit in suits:
             for rank in ranks:
-                if rank == 'Ace':
-                    self.value_cards[f'{rank} of {suit}'] = 11
-                else:
                     self.all_cards.append(f'{rank} of {suit}')  # appending like-'Two of Hearts'
                     self.value_cards[f'{rank} of {suit}'] = values[rank]
 
