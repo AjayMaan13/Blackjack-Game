@@ -27,6 +27,7 @@ To make the game simpler and easy there are some features of the game which are 
 - no split
 - no double down
 - no surrender
+- aces counted as 11
 - and no insurance. 
 
 These features are yet to be added in the future 
